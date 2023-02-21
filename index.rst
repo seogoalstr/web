@@ -1,3 +1,6 @@
+title: seogoals
+description: Bookmark this to keep an eye on my project updates!
+
 https://www.beratendustriyel.com.tr/empero-servisi
 https://www.beratendustriyel.com.tr/fagor-servisi
 https://www.beratendustriyel.com.tr/inoksan-servisi
